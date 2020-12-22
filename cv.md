@@ -56,4 +56,4 @@ console.log(seyHi('Igor'));
 
 ### English
 
-- entry level
+entry level
