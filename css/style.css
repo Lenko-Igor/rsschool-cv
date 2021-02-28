@@ -31,13 +31,13 @@ h2{
   background-color: grey;
   color: white;
 }
-header, article{
+.container {
   width: 600px;
   margin: 0 auto;
   background-color: rgb(248, 245, 245);
   padding: 10px 35px;
 }
-header{
+header > .container {
   display: flex;
   justify-content: space-between;
 }
